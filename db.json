@@ -1,0 +1,48 @@
+{
+  "Projects": [
+    {
+      "Projectname": "SmartOps",
+      "Description": "Ticket of SmartOps",
+      "Tickettype": "Email Dump",
+      "Filename": "data_4.csv",
+      "File_guidname": "aa1c39e2-b011-479f-99f2-6cc90a4dbd9c.csv",
+      "Filetype": "Raw",
+      "Clusteringalgorithms": "LDA",
+      "Files": [],
+      "id": 1
+    },
+    {
+      "Projectname": "a",
+      "Description": "b",
+      "Tickettype": "Email Dump",
+      "Filename": "data_4.csv",
+      "File_guidname": "600ec421-f262-4d1c-ab71-ee128457bb37.csv",
+      "Filetype": "Raw",
+      "Clusteringalgorithms": "LDA",
+      "Files": [],
+      "id": 2
+    },
+    {
+      "Projectname": "w",
+      "Description": "e",
+      "Tickettype": "None",
+      "Filename": "data_3.csv",
+      "File_guidname": "51956355-3ff1-4d94-b564-4e98a250e5c4.csv",
+      "Filetype": "Raw",
+      "Clusteringalgorithms": "LDA",
+      "Files": [],
+      "id": 3
+    },
+    {
+      "Projectname": "1",
+      "Description": "2",
+      "Tickettype": "Email Dump",
+      "Filename": "data_2.csv",
+      "File_guidname": "4f5fb786-14e4-4659-a1df-a49aff84bfb8.csv",
+      "Filetype": "Raw",
+      "Clusteringalgorithms": "LDA",
+      "Files": [],
+      "id": 4
+    }
+  ]
+}
